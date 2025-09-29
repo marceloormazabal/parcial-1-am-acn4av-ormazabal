@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Marceapp</string>
+    <string name="saludo">Hola, soy Marcelo</string>
+
+    <string name="title">Mis Tareas</string>
+    <string name="hint_task">Escribe una tarea...</string>
+    <string name="btn_add">Agregar</string>
+    <string name="img_desc">Banner de lista de tareas</string>
 </resources>

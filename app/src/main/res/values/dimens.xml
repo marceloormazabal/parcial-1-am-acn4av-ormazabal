@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="texto_grande">24sp</dimen>
+    <dimen name="margen_general">16dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+</resources>
